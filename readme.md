@@ -6,6 +6,9 @@ Built with **Streamlit** and powered by **OpenRouter AI** (supporting GPT-4, Cla
 
 ---
 
+
+<img width="1897" height="924" alt="Screenshot 2025-11-09 114857" src="https://github.com/user-attachments/assets/94044094-99b1-4b0e-8ca7-7feb95ede6c2" />
+
 ##  Features
 
 ### Core Capabilities
